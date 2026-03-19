@@ -246,9 +246,11 @@ http://localhost:8000/predict
 2. Selecione **raw**
 3. No seletor à direita escolha **JSON**
 
-ATENÇÃO: 
-O exemplo abaixo é referente ao exercício do dataset "diamonds". 
-Customize o conteúdo do arquivo JSON com as features (dados de entrada X) do seu modelo.
+> [!TIP]
+> ATENÇÃO: 
+> O exemplo abaixo é referente ao exercício do dataset "diamonds". 
+> Customize o conteúdo do arquivo JSON com as features (dados de entrada X) do seu modelo.
+
 
 Cole:
 
@@ -349,6 +351,11 @@ Body:
   }
 ]
 ```
+> [!TIP]
+> ATENÇÃO: 
+> O exemplo abaixo é referente ao exercício do dataset "diamonds". 
+> Customize o conteúdo do arquivo JSON com as features (dados de entrada X) do seu modelo.
+
 
 Se tudo estiver correto, a API retornará novamente a predição.
 
